@@ -1,0 +1,15 @@
+athletic - girona -> 1 - 0.37142857, 2 - 0.14285714, X - 0.48571429 -> resultado 2 -error
+celta - valladolid -> 1- 0.45714286, 2-  0.14285714, X - 0.4 -> resultado 1 -ok
+cadiz - rayo vallecano -> 1 - 0.34285714, 2- 0.27142857, X - 0.38571429 -> resultado 1 -error
+espanyol - mallorca ->  1 - 0.48571429, 2- 0.12857143, X - 0.38571429 -> resultado 1 -ok
+almeria - barcelona -> 1 - 0.35714286, 2- 0.28571429, X - 0.35714286 -> resultado 1 -error
+real madrid - atletico de madrid -> 1 - 0.35714286, 2- 0.15714286, X - 0.48571429 -> resultado X -ok
+sevilla - osasuna -> 1 - 0.32857143, 2-  0.18571429, X - 0.48571429 -> resultado 2 -error
+valencia - real sociedad -> 1 - 0.38571429, 2-  0.11428571, X - 0.5 -> resultado 1 -error
+alaves - cartagena -> 1 - 0.37142857, 2-  0.25714286, X - 0.37142857 -> resultado X -error (clasifico en 1)
+sporting - tenerife -> 1 - 0.37142857, 2-  0.14285714, X - 0.48571429 -> resultado 1 -error
+las palmas - ponferradina -> 1 - 0.5, 2-  0.1, X - 0.4 -> resultado 1 -ok
+ibiza - huesca -> 1 - 0.32857143, 2-  0.21428571, X - 0.45714286 -> resultado X -ok
+mirandes - leganes -> 1 - 0.35714286, 2-  0.28571429, X - 0.35714286 -> resultado X -error
+zaragoza - burgos - > 1 - 0.35714286, 2-  0.28571429, X - 0.35714286 -> resultado X -error
+villarreal getafe - > 1 - 0.37142857, 2-  0.12857143, X - 0.5 -> 

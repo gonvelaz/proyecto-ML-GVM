@@ -1,0 +1,243 @@
+real sociedad - cadiz: 
+	id_equipo_local = 548  
+	id_equipo_visitante = 724
+	odd_1 = 1.5
+	odd_x = 4
+	odd_2 = 7.5
+	arbitro = 'Antonio Mateu, Spain' 
+	estadio = 'Reale Arena'  
+	season = 2022  
+	ids_lesionados = [47298,47322,31406, 46770,47307,51588,162058]  
+	ids_titulares = [
+	   47323,18867,47301,47269,47299,47315,32862,47311,47314,47440,46808,
+	  6492,47229,937,8627,46691,46759,46769,46818,47388,47471,47100
+	]
+	
+lugo - zaragoza:
+	id_equipo_local = 716  
+	id_equipo_visitante = 732 
+	odd_1 = 3.6
+	odd_x = 3
+	odd_2 = 2.25  
+	arbitro = 'Raul Martin Gonzalez Frances, Spain' 
+	estadio = 'Anxo Carro'  
+	season = 2022  
+	ids_lesionados = [2352,47379,182786,58,161590,46732]  
+	ids_titulares = [
+	   15575, 47190,46765,182261,46909,310609,46981,3365,194519,47177,104894,
+	   47044,380261,104916,47332,47053,107158,47065,162249,47553,323935,22098
+	]
+
+getafe -girona:
+	id_equipo_local = 546  
+	id_equipo_visitante = 547
+	odd_1 = 2.63
+	odd_x = 3
+	odd_2 = 3
+	arbitro = 'Juan Martinez Munuera, Spain' 
+	estadio = 'Coliseum Alfonso Pérez (Getafe (Madrid))'  
+	season = 2022  
+	ids_lesionados = [2421,2449,263529,197448]  
+	ids_titulares = [
+	  6168,47540,47250,46795,2824,47472,2060,47520,47247,47257,47499,
+	  158,2182,18949,46849,47511,47516,135334,136117,283668,47515,50856
+	]
+	
+almeria - villarreal:
+	id_equipo_local = 723  
+	id_equipo_visitante = 533
+	odd_1 = 3.4
+	odd_x = 3.5
+	odd_2 = 2.15
+	arbitro = 'Pablo Gonzales Fuertes, Spain' 
+	estadio = 'Estadio de los Juegos Mediterráneos (Almería)'  
+	season = 2022  
+	ids_lesionados = [47576,1705,924]  
+	ids_titulares = [
+	  129,6065,46904,46919,47356,47530,13062,47237,47554,194750,340,
+	  166,314,1624,46815,288,928,1696,182219,184226,187987,47467
+	]
+	
+
+mallorca - elche:
+	id_equipo_local = 798  
+	id_equipo_visitante = 797
+	odd_1 = 1.65
+	odd_x = 3.5
+	odd_2 = 6
+	arbitro = 'Juan Martinez Munuera, Spain' 
+	estadio = 'Visit Mallorca Estadi'  
+	season = 2022  
+	ids_lesionados = [53517,660,534,146,1983,47398]  
+	ids_titulares = [
+	  181582,1687,26302,46733,46738,47007,3084,46742,50048,927,2814,
+	  46961,414,2486,46651,46965,47002,47378,47414,122657,608,195923
+	]
+	
+atletico - sevilla:
+
+	id_equipo_local = 530  
+	id_equipo_visitante = 536
+	odd_1 = 1.6
+	odd_x = 3.8
+	odd_2 = 6
+	arbitro = 'Guillermo Cuadra Fernandez, Spain' 
+	estadio = 'Estadio Wanda Metropolitano'  
+	season = 2022  
+	ids_lesionados = [739,2472,6503,22225,53,25345,433,452,30433,174918,389]  
+	ids_titulares = [
+	  29,20,39,45,50,753,2669,2923,56,667,31,
+		2468,2701,149,1489,1493,1650,1911,20696,47389,133110,47422
+	]
+	
+valladolid - espanyol:
+	id_equipo_local = 720  
+	id_equipo_visitante = 540
+	odd_1 = 2.25
+	odd_x = 3.25
+	odd_2 = 3.25
+	arbitro = 'Valentin Pizarro Gomez, Spain' 
+	estadio = 'José Zorrilla'  
+	season = 2022  
+	ids_lesionados = [8587,18902,47474,107153,47329,119232,46825]  
+	ids_titulares = [
+	  1682,2040,341700,2001,2053,16369,46979,47487,47496,63542,31386,
+	  46764,46968,47352,1461,2042,2737,2873,10169,18907,47336,47349
+	]
+	
+barcelona - valencia:
+	id_equipo_local = 529  
+	id_equipo_visitante = 532
+	odd_1 = 1.33
+	odd_x = 5.25
+	odd_2 = 8.5
+	arbitro = 'Javier Alberola Rojas, Spain' 
+	estadio = 'Camp Nou (Barcelona)'  
+	season = 2022  
+	ids_lesionados = [133609,296667,153,521,920,911,918,915,161933,122233,274]  
+	ids_titulares = [
+	  127,137,144,538,1257,2282,101814,161928,931,1496,135775,
+	  919,41157,1482,47251,48372,126936,72048,162123,162175,47264,24760
+	]
+	
+rayo - ath. club:
+	id_equipo_local = 728  
+	id_equipo_visitante = 531
+	odd_1 = 2.75
+	odd_x = 3.1
+	odd_2 = 2.75
+	arbitro = 'Mario Melero Lopez, Spain' 
+	estadio = 'Estadio del Rayo Vallecano (de Vallecas Teresa Rivero) (Madrid)'  
+	season = 2022  
+	ids_lesionados = [47533,47270,47271,898,182563]  
+	ids_titulares = [
+	  736,15900,18895,20520,47527,47541,47543,47557,131546,52,47109,
+	  2670,183848,30510,47273,47276,47281,47278,128398,47291,183799,182560
+	]
+	
+betis - real madrid:
+	id_equipo_local = 543  
+	id_equipo_visitante = 541
+	odd_1 = 4.75
+	odd_x = 3.8
+	odd_2 = 1.7
+	arbitro = 'Cesar Soto Grado, Spain' 
+	estadio = 'Benito Villamarín'  
+	season = 2022  
+	ids_lesionados = [1570,668,185202,505,653,754,47400]  
+	ids_titulares = [
+	  1264,614,134,1580,1847,2469,2476,47119,185477,18906,47348,
+	  730,752,757,759,1271,2207,756,2285,372,762,10009
+	]
+	
+burgos - granada:
+	id_equipo_local = 9580  
+	id_equipo_visitante = 715
+	odd_1 = 2.75
+	odd_x = 2.8
+	odd_2 = 2.88
+	arbitro = 'Aitor Gorostegui Fernandez Orte, Spain' 
+	estadio = 'Estadio Municipal de El Plantío'  
+	season = 2022  
+	ids_lesionados = []  
+	ids_titulares = [
+	  46763,46698,108561,179075,182181,104932,129697,181867,182473,193327,46941,
+	  46677,46689,47408,47452,122756,127426,290215,330,14405,70339,46987
+	]
+	
+huesca - levante:
+	id_equipo_local = 726  
+	id_equipo_visitante = 539
+	odd_1 = 3.75
+	odd_x = 3
+	odd_2 = 2.15
+	arbitro = 'Mateo Busquets Ferrer, Spain' 
+	estadio = 'El Alcoraz'  
+	season = 2022  
+	ids_lesionados = []  
+	ids_titulares = [
+	  182547,1684,46927,21433,60,119883,47569,1703,131544,47010,47164,
+	  96324,1160,156488,128582,46659,104949,46803,47052,47463,47460	,131538
+	]
+	
+tenerife - eibar:
+	id_equipo_local = 719  
+	id_equipo_visitante = 545
+	odd_1 = 2.3
+	odd_x = 2.8
+	odd_2 = 3.75
+	arbitro = 'Alejandro Quintero' 
+	estadio = 'Heliodoro Rodríguez López'  
+	season = 2022  
+	ids_lesionados = []  
+	ids_titulares = [
+	  119745,47581,55,48322,24026,47481,192032,47498,47089,46078,2036,
+	  47385,47377,47318,2039,46929,46860,47286,113587,46740,732,41145
+	]
+
+leganes - ibiza:
+
+	id_equipo_local = 537  
+	id_equipo_visitante = 9390
+	odd_1 = 1.91
+	odd_x = 2.9
+	odd_2 = 5.5
+	arbitro = 'Andres Fuentes Molina, Spain' 
+	estadio = 'Municipal de Butarque'  
+	season = 2022  
+	ids_lesionados = []  
+	ids_titulares = [
+	  129657,123047,183748,47568,46922,47407,1708,47376,47080,2604,47090,
+	  19125,47451,47387,6637,763,47180,162559,47536,303378,125566,50169
+	]
+	
+albacete - sporting:
+
+	id_equipo_local = 722  
+	id_equipo_visitante = 731
+	odd_1 = 2.05
+	odd_x = 3
+	odd_2 = 4.33
+	arbitro = 'Oliver de la Fuente Ramos, Spain' 
+	estadio = 'Carlos Belmonte'  
+	season = 2022  
+	ids_lesionados = []  
+	ids_titulares = [
+	 1559,80112,47211,279822,183931,122230,47005,47145,36,122584,107210,
+	 47384,761,46887,46901,90646,47366,162562,21395,47399,47578,47223
+	]
+	
+celta - osasuna:
+	id_equipo_local = 727  
+	id_equipo_visitante = 538
+	odd_1 = 2.6
+	odd_x = 3.1
+	odd_2 = 2.88
+	arbitro = 'José Sánchez' 
+	estadio = 'Estadio El Sadar'  
+	season = 2022  
+	ids_lesionados = [46658,47391,2464,162712,2433]  
+	ids_titulares = [
+	 181421,46746,47579,47448,46653,47574,46662,67939,64309,1825,
+	 1926,47445,47435,19026,47566,2032,47432,47277,67955,182504,47427
+	]
